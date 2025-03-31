@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="第 1 页" id="KktiBLzYwfwLIxu6B7vA">
-    <mxGraphModel dx="983" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,31 +8,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-2" value="认证申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="89" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="147" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-3" target="-sy4b0l8oQ5YywqA0YYM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-3" value="制定认证实施方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="344" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="402" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-4" target="-sy4b0l8oQ5YywqA0YYM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-4" value="认证受理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="130" height="80" as="geometry" />
+          <mxGeometry x="50" y="288" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-5" target="-sy4b0l8oQ5YywqA0YYM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-5" value="资料技术评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="558" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-6" target="-sy4b0l8oQ5YywqA0YYM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-6" value="制定核查计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="728" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-7" target="-sy4b0l8oQ5YywqA0YYM-8">
           <mxGeometry relative="1" as="geometry" />
@@ -41,40 +41,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-9" value="颁发证书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1019.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="1077.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-18" value="1，认证单元划分：拟定认证的目标和范围&lt;div&gt;2，准备认证申请需要提交的材料&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（1）认证申请书&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（2）生产企业的营业执照或法律地位证明文件&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（3）产品碳足迹核算清单和报告&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（4）产品生产工艺流程图&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（5）原材料获取、制造、分销、使用、生命末期各阶段能源资源消耗数据及佐证材料&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（6）主要零部件和原材料的关键信息和消耗数据及佐证材料（如有PCR则按照pcr进行）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（7）其他佐证文件&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="32" width="535" height="174" as="geometry" />
+          <mxGeometry x="200" y="90" width="535" height="174" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-19" value="认证机构受理认证申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="235" width="535" height="70" as="geometry" />
+          <mxGeometry x="200" y="293" width="535" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-7" value="现场核查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="799" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="857" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-23" value="对申请方提供的资料进行战略分析，初步判断产品核查的复杂程度，对资料技术评审及现场核查做出时间及日程安排" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="329" width="535" height="90" as="geometry" />
+          <mxGeometry x="200" y="387" width="535" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-24" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;div&gt;包括认证委托人提交的申请文件、佐证材料等，重点从以下六个方面进行技术评审：&amp;nbsp;&lt;/div&gt;&lt;div&gt;（1）组织机构的合法性复核，如委托人（申请人）、生产者（制造商）、生产企业等有关资质的存在性和合法性，及OEM/ODM的知识产权关系（适用时）等；&lt;/div&gt;&lt;div&gt;（2）文件资料的完整性、适用性、有效性审查，文件内容应能完整覆盖各产品认证实施规则的相应要求，避免缺项情况发生；&amp;nbsp;&lt;/div&gt;&lt;div&gt;（3)能资源消耗量数据、模型和排放因子等资料的初步符合性评估：&amp;nbsp;&lt;/div&gt;&lt;div&gt;（4)系统边界、分配原则、取舍原则、数据质量控制的初步符合性评估；&lt;/div&gt;&lt;div&gt;（5)碳足迹核算清单和报告的初步符合性评估；&amp;nbsp;&lt;/div&gt;&lt;div&gt;（6)不确定性及相关风险分析。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="535" height="180" as="geometry" />
+          <mxGeometry x="200" y="498" width="535" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sy4b0l8oQ5YywqA0YYM-7" target="-sy4b0l8oQ5YywqA0YYM-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="759" as="sourcePoint" />
-            <mxPoint x="115" y="939" as="targetPoint" />
+            <mxPoint x="115" y="817" as="sourcePoint" />
+            <mxPoint x="115" y="997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-8" value="认证结果评价与批准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="938.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="996.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-26" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;根据资料技术评审制定现场核查计划，明确核查准则、范围、内容等要求。组成。制定现场核查计划，确定核查日程安排。《现场核查计划表》由核查组长与受核查方沟通确认。如遇特殊情况临时变更计划时，及时通知受核查方。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="635" width="535" height="130" as="geometry" />
+          <mxGeometry x="200" y="693" width="535" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-37" value="认证机构应对资料技术评审和现场核查的结果进行综合评价，最终作出认证决定，符合要求的，颁发证书并允许使用大湾区碳足迹标识。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="938.5" width="534" height="141" as="geometry" />
+          <mxGeometry x="200" y="996.5" width="534" height="141" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="780" width="535" height="110" as="geometry" />
+          <mxGeometry x="200" y="838" width="535" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-sy4b0l8oQ5YywqA0YYM-39">
           <mxGeometry width="535" height="110" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="-sy4b0l8oQ5YywqA0YYM-35" value="核查报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-sy4b0l8oQ5YywqA0YYM-39">
           <mxGeometry x="460" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sy4b0l8oQ5YywqA0YYM-40" value="&lt;h2 align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:黑体;mso-ascii-font-family:Arial;&lt;br/&gt;mso-hansi-font-family:Arial;mso-bidi-font-family:&#39;Times New Roman&#39;;mso-ansi-font-weight:bold;&lt;br/&gt;font-size:16.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;粤港澳大湾区碳足迹标识认证工作方案&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:黑体;mso-ascii-font-family:Arial;&lt;br/&gt;mso-hansi-font-family:Arial;mso-bidi-font-family:&#39;Times New Roman&#39;;mso-ansi-font-weight:bold;&lt;br/&gt;font-size:16.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
